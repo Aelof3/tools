@@ -1,5 +1,5 @@
-# tools
-tools for testing
+# Tools
+Shortcuts to use existing tools with preset options, usually maximized for ctf purposes
 <br>
 <br>
 chrome -> use: chrome | customized chrome launcher<br>
