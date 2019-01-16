@@ -2,6 +2,7 @@
 tools for testing
 <br>
 <br>
-chrome -> customized chrome launcher<br>
-gobust -> pre-written gobuster setup, maximized for ctf purposes<br>
-dsearch -> pre-written dirsearch setup, maximized for ctf purposes<br>
+chrome -> use: chrome | customized chrome launcher<br>
+gobust -> use: gobust <url/ip> | pre-written gobuster setup, maximized for ctf purposes<br>
+dsearch -> use: dsearch <url/ip> | pre-written dirsearch setup, maximized for ctf purposes<br>
+vscan -> use: vscan <url/ip> | nmap vulnscan script
