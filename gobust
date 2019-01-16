@@ -1,0 +1,3 @@
+#!/bin/sh
+gobuster -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -u $1 -x html,php,asp,aspx,txt,conf,config,json,js,css,ini,xml,xhtml,htm,py,db,sql,access -t 64 -s 200,301,403
+

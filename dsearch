@@ -1,0 +1,3 @@
+#!/bin/sh
+
+~/dirsearch/dirsearch.py -e pdf,html,php,asp,aspx,txt,conf,config,json,js,css,ini,xml,xhtml,htm,py,db,sql,access,gne -w /root/dirsearch/db/dicc2.txt -f -x 403,404,302 -r -t 64 -u $1
