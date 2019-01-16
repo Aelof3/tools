@@ -1,0 +1,2 @@
+#!/bin/bash
+nikto -Display 1234P -Cgidirs all -Tuning 123457890abcde -no404 -nointeractive -host $1
